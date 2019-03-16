@@ -1,7 +1,5 @@
 <h1 align="center">Timetable Bot for NTU Beta 0.1.0</h1> 
 
-<hr>
-
 A Telegram chatbot that acquires timetable data from NTU's class schedule portal, generates a timetable in app and sends daily reminders. 
 
 <hr>
@@ -84,3 +82,5 @@ Authors of all libraries / modules used in the inspiration for and development o
 * [MongoDB](https://www.mongodb.com/) - mongoDB is used as the database for this bot, with it being noSQL allows for easy information storage.
 * [SIM-UoW Timetable Bot](https://github.com/xlanor/SIM-UoW-Timetable-bot) - Took inspiration from this amazing bot in crafting the functions and presentation for this bot.
 * [NTU Course Planner](https://github.com/koallen/ntu-course-planner-cli) - Learnt web scrapping and HTML parsing from reading through and using the code in this application
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - With a HTML parser like this, what else do you even need.
+
