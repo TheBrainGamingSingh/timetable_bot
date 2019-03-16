@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="400" height="400" src="./ntu1.png">
+</p>
+
 <h1 align="center">Timetable Bot for NTU Beta 0.1.0</h1> 
 
 A Telegram chatbot that acquires timetable data from NTU's class schedule portal, generates a timetable in app and sends daily reminders. 
