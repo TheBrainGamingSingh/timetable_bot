@@ -1,0 +1,4 @@
+global ACADYEAR
+global ACADSEM
+ACADYEAR = str(2018)
+ACADSEM = "2"
